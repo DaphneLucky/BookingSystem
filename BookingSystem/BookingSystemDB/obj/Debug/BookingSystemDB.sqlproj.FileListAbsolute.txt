@@ -1,0 +1,10 @@
+C:\Users\EasyCAST\Desktop\BookingSystem\BookingSystemDB\bin\Debug\BookingSystemDB.dacpac
+C:\Users\EasyCAST\Desktop\BookingSystem\BookingSystemDB\bin\Debug\BookingSystemDB.dll
+C:\Users\EasyCAST\Desktop\BookingSystem\BookingSystemDB\bin\Debug\BookingSystemDB.pdb
+C:\Users\EasyCAST\Desktop\BookingSystem\BookingSystemDB\obj\Debug\BookingSystemDB.sqlprojAssemblyReference.cache
+C:\Users\EasyCAST\Desktop\BookingSystem\BookingSystemDB\obj\Debug\Model.xml
+C:\Users\EasyCAST\Desktop\BookingSystem\BookingSystemDB\obj\Debug\refactor.xml
+C:\Users\EasyCAST\Desktop\BookingSystem\BookingSystemDB\obj\Debug\postdeploy.sql
+C:\Users\EasyCAST\Desktop\BookingSystem\BookingSystemDB\obj\Debug\predeploy.sql
+C:\Users\EasyCAST\Desktop\BookingSystem\BookingSystemDB\obj\Debug\BookingSystemDB.dll
+C:\Users\EasyCAST\Desktop\BookingSystem\BookingSystemDB\obj\Debug\BookingSystemDB.pdb
